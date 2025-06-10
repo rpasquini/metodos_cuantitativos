@@ -5,7 +5,10 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 
 ## Notebooks 
 
-1. [Introducción y Regresión simple](https://github.com/rpasquini/metodos_cuantitativos_2022/blob/main/1_Introduccion.ipynb)
-2. [Predicción y Análisis de Residuos](https://github.com/rpasquini/metodos_cuantitativos/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis_V2.ipynb)
-3. [Ejemplos Regresion Multiple](https://github.com/rpasquini/metodos_cuantitativos_2022/blob/main/OLS4_Regresion_Multiple.ipynb) 
-4. [Clasificación](https://github.com/rpasquini/metodos_cuantitativos_2022/blob/main/5_Modelos_de_Clasificacion.ipynb)
+| Date    | Topic                              | Slides | Notebook |
+|---------|------------------------------------|--------|----------|
+| 12-jun  | Introducción y Regresión simple    | slides | [notebook](notebooks/python/1_Introduccion.ipynb) |
+| 19-jun  | Predicción y Análisis de Residuos  | slides | [notebook](notebooks/python/OLS_2_Ajuste_Propiedades_Test_de_Hipótesis_V2.ipynb) |
+| 26-jun  | Ejemplos Regresion Multiple        | slides | [notebook](notebooks/python/OLS4_Regresion_Multiple.ipynb) |
+| 3-jul   | Clasificación                      | slides | [notebook](notebooks/python/5_Modelos_de_Clasificacion.ipynb) |
+| 7-jul   | Modelos espaciales                 | slides | notebook |

@@ -1,2 +1,17 @@
 # Ignore folder_to_ignore and its contents
 final-old/
+slides/clase_1/Clase 1.md
+slides/clase_1/Clase_1.aux
+slides/clase_1/Clase_1.fdb_latexmk
+slides/clase_1/Clase_1.fls
+slides/clase_1/Clase_1.log
+slides/clase_1/Clase_1.nav
+slides/clase_1/Clase_1.out
+slides/clase_1/Clase_1.snm
+slides/clase_1/Clase_1.synctex.gz
+slides/clase_1/Clase_1.tex
+slides/clase_1/Clase_1.toc
+slides/clase_1/Clase_1_ficticia.ipynb
+slides/clase_1/assets/
+slides/clase_1/clase1.ipynb
+slides/slides curso meu.pptx
