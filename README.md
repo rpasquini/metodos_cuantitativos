@@ -12,3 +12,11 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 | 26-jun  | Ejemplos Regresion Multiple        | slides | [notebook](notebooks/python/OLS4_Regresion_Multiple.ipynb) | notebook |
 | 3-jul   | Clasificación                      | slides | [notebook](notebooks/python/5_Modelos_de_Clasificacion.ipynb) | notebook |
 | 7-jul   | Modelos espaciales                 | slides | notebook | notebook |
+
+
+# Log de comentarios
+
+* 13-jun Se solucionó el error que no permitía leer el shapefile en Colab.
+* 13-jun Para aquellos que reproducen los resultados en R, notar que la importación de la librería sf tarda como 15 minutos.
+
+
