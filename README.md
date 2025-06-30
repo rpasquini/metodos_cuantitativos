@@ -1,9 +1,9 @@
-# Métodos cuantitativos en estudios urbanos II
+# Métodos Cuantitativos en Estudios Urbanos II - MEU UTDT
 
 Esta proyecto contiene materiales de la materia Métodos cuantitativos en estudios urbanos II de la Maestría en Economía Urbana de la Universidad Torcuato Di Tella. 
 Los notebooks son creados en google colaboratory de manera de minimizar requerimientos de instalación.
 
-## Notebooks 
+## Links a Recursos
 
 | Date    | Topic                              | Slides | Notebook (Python) | Notebook (R) |
 |---------|------------------------------------|--------|----------|----------|
@@ -13,12 +13,13 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 | 3-jul   | Clasificación                      | slides | [notebook](notebooks/python/5_Modelos_de_Clasificacion.ipynb) | notebook |
 | 7-jul   | Modelos espaciales                 | slides | notebook | notebook |
 
-# Usuarios R
+## Usuarios R
 
 * [Sugerencias sobre cómo instalar las librerías de R en el ambiente Colab](instalacion-R-en-Colab.md)
 
-# Log de comentarios
+## Log de comentarios
 
+* 30-jun Notebooks en formato R funcionales. Se recomienda seguir las sugerencias de instalación de librerías.
 * 13-jun Se solucionó el error que no permitía leer el shapefile en Colab.
 * 13-jun Para aquellos que reproducen los resultados en R, notar que la importación de la librería sf tarda como 15 minutos.
 
