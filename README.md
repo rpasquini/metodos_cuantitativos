@@ -13,6 +13,9 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 | 3-jul   | Clasificación                      | slides | [notebook](notebooks/python/5_Modelos_de_Clasificacion.ipynb) | notebook |
 | 7-jul   | Modelos espaciales                 | slides | notebook | notebook |
 
+# Usuarios R
+
+* [Sugerencias sobre cómo instalar las librerías de R en el ambiente Colab](instalacion-R-en-Colab.md)
 
 # Log de comentarios
 
