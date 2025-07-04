@@ -18,7 +18,8 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 * [Sugerencias sobre cómo instalar las librerías de R en el ambiente Colab](instalacion-R-en-Colab.md)
 
 ## Log de comentarios
-
+* 4-jul Referencias a papers citados en clase incluidos en los slides
+* 4-jul Se simplificó y documentó mejor el código de R para clasificación
 * 30-jun Notebooks en formato R funcionales. Se recomienda seguir las sugerencias de instalación de librerías.
 * 13-jun Se solucionó el error que no permitía leer el shapefile en Colab.
 * 13-jun Para aquellos que reproducen los resultados en R, notar que la importación de la librería sf tarda como 15 minutos.
