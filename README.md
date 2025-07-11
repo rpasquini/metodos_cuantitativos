@@ -1,6 +1,7 @@
 # Métodos Cuantitativos en Estudios Urbanos II - MEU UTDT
 
-Esta proyecto contiene materiales de la materia Métodos cuantitativos en estudios urbanos II de la Maestría en Economía Urbana de la Universidad Torcuato Di Tella. 
+Esta proyecto contiene materiales del curso Métodos Cuantitativos en Estudios Urbanos II de la Maestría en Economía Urbana de la Universidad Torcuato Di Tella. 
+Este es un curso corto, enfoncado en el uso del modelo de regresión para analizar preguntas de investigación, y en ejemplos de la Economía Urbana.  
 Los notebooks son creados en google colaboratory de manera de minimizar requerimientos de instalación.
 
 ## Links a Recursos
