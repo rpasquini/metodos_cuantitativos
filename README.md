@@ -11,7 +11,7 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 | 19-jun  | Bondad de Ajuste y Propiedades Estadísticas  | [slides](slides/clase_2/Clase_2.pdf) | [notebook](notebooks/python/OLS_2_Ajuste_Propiedades_Test_de_Hipótesis_V2.ipynb) | [notebook](notebooks/R/OLS_2_Ajuste_Test_Hipotesis_V2_R.ipynb) |
 | 26-jun  | Ejemplos Regresion Multiple        | [slides](slides/clase_3/clase_3.pdf) | [notebook](notebooks/python/OLS4_Regresion_Multiple.ipynb) | [notebook](notebooks/R/OLS4_Regresion_Multiple.ipynb) |
 | 3-jul   | Clasificación                      | [slides](slides/clase_4/clase_4.pdf) | [notebook](notebooks/python/5_Modelos_de_Clasificacion.ipynb) | [notebook](notebooks/R/5_Modelos_de_Clasificacion.ipynb) |
-| 7-jul   | Modelos espaciales                 | [slides](slides/clase_5/clase_5.pdf) | [notebook](notebooks/python/Correlacion_espacial_y_Regresión_espacial_intro.ipynb) | notebook |
+| 7-jul   | Revisión Supuestos para Pruebas de Hipótesis e Introducción a Análisis espacial                 | [slides](slides/clase_5/clase_5.pdf) | [notebook](notebooks/python/Correlacion_espacial_y_Regresión_espacial_intro.ipynb) | notebook |
 
 ## Usuarios R
 
