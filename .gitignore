@@ -15,3 +15,18 @@ slides/clase_1/Clase_1_ficticia.ipynb
 slides/clase_1/assets/
 slides/clase_1/clase1.ipynb
 slides/slides curso meu.pptx
+
+# LaTeX-related files in all slides subfolders (everything except PDF)
+slides/**/*.tex
+slides/**/*.md
+slides/**/*.nav
+slides/**/*.aux
+slides/**/*.fdb_latexmk
+slides/**/*.fls
+slides/**/*.log
+slides/**/*.out
+slides/**/*.snm
+slides/**/*.synctex.gz
+slides/**/*.toc
+slides/**/*.png
+slides/**/*.txt
