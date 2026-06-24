@@ -1,4 +1,7 @@
 # Ignore folder_to_ignore and its contents
+CLAUDE.md
+.claude/
+quizes/
 final-old/
 slides/clase_1/Clase 1.md
 slides/clase_1/Clase_1.aux
@@ -30,3 +33,8 @@ slides/**/*.synctex.gz
 slides/**/*.toc
 slides/**/*.png
 slides/**/*.txt
+
+notebooks/python/TF_2025_draft.ipynb
+slides/clase_5/generate_graphs.py
+notebooks/python/5_Modelos_de_Clasificacion copy.ipynb
+notebooks/python/Correlacion_espacial_y_Regresi\303\263n_espacial_intro empty.ipynb
